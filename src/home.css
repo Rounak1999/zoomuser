@@ -1,0 +1,95 @@
+@media screen and (max-width: 1800px)
+{
+    .lol{
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        margin-top: 150px;
+    
+    }
+    .lolo{
+        display: flex;
+        justify-content: center;
+    }
+    .faram{
+        width: 500px;
+       
+    }
+    .log{
+        display: flex;
+        justify-content: center;
+        font-size:xx-large;
+        margin-bottom: 10px;
+    }
+    
+  
+}
+@media screen and (max-width: 900px)
+{
+   
+    .lol{
+        margin-top: 120px;
+    }
+    .lolo{
+        display: flex;
+        justify-content: center;
+        margin-top:20px;
+        margin-bottom: 20px;
+    }
+    .faram{
+        width: 500px;
+       
+    }
+    .log{
+        display: flex;
+        justify-content: center;
+        font-size:xx-large;
+        margin-bottom: 10px;
+    }
+    
+  
+}
+@media screen and (max-width: 600px)
+{
+  
+    .lol{
+        margin-top: 80px;
+    }
+    .lolo{
+        display: flex;
+        justify-content: center;
+        margin-top:20px;
+        margin-bottom: 20px;
+        margin-left:20px;
+        margin-right: 20px;
+    }
+    .faram{
+        width: 500px;
+        
+    }
+    .log{
+        display: flex;
+        justify-content: center;
+        font-size:x-large;
+        margin-bottom: 10px;
+    }
+    p{
+        font-size:15px;
+    }
+     .input{
+        border-radius: 50px;
+    }
+   
+   
+}
+.image{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+  
+}
+.imag{
+    height:100px;
+    width:100px;
+}
+
